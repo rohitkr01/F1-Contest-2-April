@@ -93,6 +93,7 @@ button{
     font-weight: 300;
     font: bold;
     border-radius: 50px;
+    cursor: pointer;
 }
 
 .image{
